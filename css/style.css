@@ -1,6 +1,6 @@
 html, body{margin: 0;}
 body{
-    background: linear-gradient(to top,#550b0c, #750002);;
+    background: linear-gradient(#550b0c, #750002);;
     margin: 0;
     display: flex;
     position: relative;
