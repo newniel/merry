@@ -1,6 +1,6 @@
 html, body{margin: 0;}
 body{
-    background: #e7e7e7;
+    background: linear-gradient(to top,#550b0c, #750002);;
     margin: 0;
     display: flex;
     position: relative;
@@ -104,11 +104,12 @@ body.on .bomb.on{
 
 .success9{
     width: 100%;
-    bottom: -26px;
+    bottom: 0;
 }
 
 .success10{
     width: 120%;
+    top: 90px;
 }
 
 .success11{
