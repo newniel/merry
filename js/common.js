@@ -14,55 +14,55 @@ $(function () {
             autoplay : true,
             path: './json/snow.json'
         });
-        bodymovin.loadAnimation({
-            container : document.querySelector('.success'),
-            renderer : 'svg',//canvas, html, svg
-            loop : true,
-            autoplay : true,
-            path: './json/success.json'
-        });
-        bodymovin.loadAnimation({
-            container : document.querySelector('.success2'),
-            renderer : 'svg',//canvas, html, svg
-            loop : true,
-            autoplay : true,
-            path: './json/success2.json'
-        });
-        bodymovin.loadAnimation({
-            container : document.querySelector('.success3'),
-            renderer : 'svg',//canvas, html, svg
-            loop : true,
-            autoplay : true,
-            path: './json/success3.json'
-        });
-        bodymovin.loadAnimation({
-            container : document.querySelector('.success4'),
-            renderer : 'svg',//canvas, html, svg
-            loop : true,
-            autoplay : true,
-            path: './json/success4.json'
-        });
-        bodymovin.loadAnimation({
-            container : document.querySelector('.success5'),
-            renderer : 'svg',//canvas, html, svg
-            loop : true,
-            autoplay : true,
-            path: './json/success5.json'
-        });
-        bodymovin.loadAnimation({
-            container : document.querySelector('.success6'),
-            renderer : 'svg',//canvas, html, svg
-            loop : true,
-            autoplay : true,
-            path: './json/success6.json'
-        });
-        bodymovin.loadAnimation({
-            container : document.querySelector('.success7'),
-            renderer : 'svg',//canvas, html, svg
-            loop : true,
-            autoplay : true,
-            path: './json/merry01.json'
-        });
+        // bodymovin.loadAnimation({
+        //     container : document.querySelector('.success'),
+        //     renderer : 'svg',//canvas, html, svg
+        //     loop : true,
+        //     autoplay : true,
+        //     path: './json/success.json'
+        // });
+        // bodymovin.loadAnimation({
+        //     container : document.querySelector('.success2'),
+        //     renderer : 'svg',//canvas, html, svg
+        //     loop : true,
+        //     autoplay : true,
+        //     path: './json/success2.json'
+        // });
+        // bodymovin.loadAnimation({
+        //     container : document.querySelector('.success3'),
+        //     renderer : 'svg',//canvas, html, svg
+        //     loop : true,
+        //     autoplay : true,
+        //     path: './json/success3.json'
+        // });
+        // bodymovin.loadAnimation({
+        //     container : document.querySelector('.success4'),
+        //     renderer : 'svg',//canvas, html, svg
+        //     loop : true,
+        //     autoplay : true,
+        //     path: './json/success4.json'
+        // });
+        // bodymovin.loadAnimation({
+        //     container : document.querySelector('.success5'),
+        //     renderer : 'svg',//canvas, html, svg
+        //     loop : true,
+        //     autoplay : true,
+        //     path: './json/success5.json'
+        // });
+        // bodymovin.loadAnimation({
+        //     container : document.querySelector('.success6'),
+        //     renderer : 'svg',//canvas, html, svg
+        //     loop : true,
+        //     autoplay : true,
+        //     path: './json/success6.json'
+        // });
+        // bodymovin.loadAnimation({
+        //     container : document.querySelector('.success7'),
+        //     renderer : 'svg',//canvas, html, svg
+        //     loop : true,
+        //     autoplay : true,
+        //     path: './json/merry01.json'
+        // });
         bodymovin.loadAnimation({
             container : document.querySelector('.success9'),
             renderer : 'svg',//canvas, html, svg
